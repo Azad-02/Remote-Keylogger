@@ -2,7 +2,7 @@
 A simple Keylogger in python that copies the keystrokes as well as clipboard content and transmits the captured keystrokes to a remote server.
 
 ## Usage
-Change the 'SERVER_ADDRESS' to IP Address of remote server and ensure Port no.
+Change the 'SERVER_ADDRESS' to IP Address of a remote server.
 
 ```
 # Start the remote server 
